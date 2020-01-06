@@ -21,7 +21,7 @@ Structure with eight modules/layouts:
   - Junta-te a nós.
 - Contactos.
 
-site is published at https://julionuneslucas.github.io/almadarockcelebration.github.io/
+site is published at  https://julionuneslucas.github.io/Tony-Classic-Customs/
 
 ### Basic Usage
 
