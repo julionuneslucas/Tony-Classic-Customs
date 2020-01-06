@@ -26,7 +26,7 @@ site is published at https://julionuneslucas.github.io/almadarockcelebration.git
 
 ### Basic Usage
 
-- HTML5, CSS3, Bootstrap4,JQuey and JavaScript. 
+- HTML5, CSS3, Bootstrap4, JQuey and JavaScript. 
 
 
 ## Copyright and License
