@@ -31,12 +31,9 @@ site is published at  https://julionuneslucas.github.io/Tony-Classic-Customs/
 
 - HTML5; 
 - CSS3; 
-- Bootstrap4; 
-- JQuey; 
+- Bootstrap4;  
 - JavaScript;
-- Font-awesome;
-- jQuery Nivo Slider v3.2.
-- Font-Awesome
+- Font-Awesome.
 
 ## Author
 
