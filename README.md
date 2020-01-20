@@ -1,4 +1,8 @@
-# Tony-Classic-Customs
+# Tony Classic Customs
+A Business website.
+
+## Prerequisites
+Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
 
 ## About
 
@@ -9,17 +13,17 @@ Website users will attest to a flawless and efficient user experience.
 
 Structure with eight modules/layouts:
 
-- Início;
-- Sobre Nós;
-- Serviços;
-- A Equipa;
-- Portfólio;
+- Início (Full Screen Photo layout);
+- Sobre Nós	(Featured Image layout);
+- Serviços (Headline and Thumbnails Gallery layout);
+- A Equipa (Headline and Thumbnails Gallery layout);
+- Portfólio (Headline and Thumbnails Gallery layout);
 - Informações;
-  - Tabela de Preços;
-  - Novidades;
-  - Perguntas Mais Frequentes;
-  - Junta-te a nós.
-- Contactos.
+  - Tabela de Preços (Zig-Zag layout);
+  - Novidades (Headline and Thumbnails Gallery layout);
+  - Perguntas Mais Frequentes (F layout);
+  - Junta-te a nós (Zig-Zag layout).
+- Contactos (Form layouts).
 
 site is published at  https://julionuneslucas.github.io/Tony-Classic-Customs/
 
@@ -34,6 +38,9 @@ site is published at  https://julionuneslucas.github.io/Tony-Classic-Customs/
 - jQuery Nivo Slider v3.2.
 - Font-Awesome
 
+## Author
+
+- **Júlio Lucas** - code and design.
 
 ## Copyright and License
 
