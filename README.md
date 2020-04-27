@@ -1,5 +1,5 @@
 # Tony Classic Customs
-A business website.
+A business website for Tony Classic Customs a Coimbra’s premiere classic car, truck and bike restoration shop. Goals are improve lead conversion rate, generate more sales and improve customer satisfaction.
 
 ## Prerequisites
 Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
